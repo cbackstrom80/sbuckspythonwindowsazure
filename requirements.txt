@@ -1,1 +1,6 @@
 Flask>=1.0,<=1.1.2
+opentelemetry-instrumentation-falcon>=0.15b0
+opentelemetry-instrumentation-jinja2>=0.15b0
+opentelemetry-instrumentation-requests>=0.15b0
+opentelemetry-instrumentation-sqlite3>=0.15b0
+opentelemetry-exporter-jaeger>=0.15b0
